@@ -36,5 +36,44 @@ public class admin {
     public void removerCliente() {
         
     }
+
+    public void adicionarDevedor() {
+        
+    }
+
+    public void adicionarEstoque() {
+        
+    }
+
+    public void removerEstoque() {
+        
+    }
+
+    public void verEstoque() {
+        
+    }
+
+    public void atualizarQuantidade() {
+        
+    }
+
+    public void adicionarCompra() {
+        
+    }
+
+    public void obterMargemDeLucro() {
+        
+    }
+
+    public void adicionarDesconto() {
+        
+    }
+
+    public void valo() {
+        
+    }
+
+
+
     
 }

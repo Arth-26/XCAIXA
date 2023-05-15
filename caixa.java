@@ -2,6 +2,7 @@ public class caixa {
 
     private double saldo_inicial;
     private double saldo_final;
+    private double saida_capital;
 
     //SETTERS AND GETTERS   
 
@@ -19,5 +20,13 @@ public class caixa {
 
     public double getSaldo_final() {
         return saldo_final;
+    }
+
+    public void setSaida_capital(double saida_capital) {
+        this.saida_capital = saida_capital;
+    }
+
+    public double getSaida_capital() {
+        return saida_capital;
     }
 }

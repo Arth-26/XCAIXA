@@ -7,6 +7,8 @@ public class cliente {
     private String rua;
     private String numero_telefone;
     private String cpf;
+    //private BD carrinho;
+    private boolean devedor = false;
 
     //SETTERS AND GETTERS
 

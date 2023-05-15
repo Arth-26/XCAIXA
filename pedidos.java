@@ -2,6 +2,9 @@ public class pedidos {
 
     private String tipo_de_pagamento;
     private double preco_de_venda;
+    private produtos produto;
+    private cliente comprador;
+    private String data;
 
     //SETTERS AND GETTERS
 
@@ -19,5 +22,29 @@ public class pedidos {
 
     public double getPreco_de_venda() {
         return preco_de_venda;
+    }
+
+    public void setProduto(produtos produto) {
+        this.produto = produto;
+    }
+
+    public produtos getProduto() {
+        return produto;
+    }
+
+    public void setComprador(cliente comprador) {
+        this.comprador = comprador;
+    }
+
+    public cliente getComprador() {
+        return comprador;
+    }
+
+    public void setData(String data) {
+        this.data = data;
+    }
+
+    public String getData() {
+        return data;
     }
 }
