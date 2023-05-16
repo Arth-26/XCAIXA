@@ -1,7 +1,7 @@
 import java.sql.*;
 
 
-public class database {
+public class Database {
     public static void main(String[] args) {
             String url = "jdbc:postgresql://localhost:8080/xcaixadb";
             String user = "postgres";

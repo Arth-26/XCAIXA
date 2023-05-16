@@ -1,4 +1,4 @@
-public class caderneta {
+public class Caderneta {
 
     //private BD historico_de_vendas
     private double lucro_bruto;

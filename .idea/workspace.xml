@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9ab49dd0-1ade-490c-9cf9-d637ac813e86" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caderneta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Caderneta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caixa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Caixa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.java" beforeDir="false" afterPath="$PROJECT_DIR$/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estoque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loja.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedidos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pedidos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Produtos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +36,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Raniere/Downloads/Projeto caixa"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

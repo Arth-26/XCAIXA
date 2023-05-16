@@ -1,4 +1,4 @@
-public class caixa {
+public class Caixa {
 
     private double saldo_inicial;
     private double saldo_final;

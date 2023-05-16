@@ -1,4 +1,4 @@
-public class admin {
+public class Admin {
     
     private String nome;
     private String email;

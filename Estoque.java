@@ -1,4 +1,4 @@
-public class estoque {
+public class Estoque {
 
     private produtos produto;
     private int quantidade;

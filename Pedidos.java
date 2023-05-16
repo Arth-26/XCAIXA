@@ -1,4 +1,4 @@
-public class pedidos {
+public class Pedidos {
 
     private String tipo_de_pagamento;
     private double preco_de_venda;
