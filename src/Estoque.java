@@ -1,15 +1,15 @@
 public class Estoque {
 
-    private produtos produto;
+    private Produtos produto;
     private int quantidade;
 
     //SETTERS AND GETTERS
 
-    public void setProduto(produtos produto) {
+    public void setProduto(Produtos produto) {
         this.produto = produto;
     }
 
-    public produtos getProduto() {
+    public Produtos getProduto() {
         return produto;
     }
 

@@ -4,6 +4,7 @@ public class Admin {
     private String email;
     private String senha;
 
+
     //SETTERS AND GETTERS
 
     public String getNome() {
