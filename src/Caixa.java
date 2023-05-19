@@ -1,10 +1,23 @@
+import java.util.Date;
+
 public class Caixa {
 
+
+    private Date data;
     private double saldo_inicial;
     private double saldo_final;
     private double saida_capital;
 
-    //SETTERS AND GETTERS   
+    //SETTERS AND GETTERS
+
+
+    public void setData(Date data) {
+        this.data = data;
+    }
+
+    public Date getData() {
+        return data;
+    }
 
     public void setSaldo_inicial(double saldo_inicial) {
         this.saldo_inicial = saldo_inicial;

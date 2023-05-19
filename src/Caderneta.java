@@ -1,9 +1,10 @@
 public class Caderneta {
 
-    //private BD historico_de_vendas
+//    private BD historico_de_vendas;
     private double lucro_bruto;
     private double gastos_do_mes;
-    //private BD hstorico_de_gastos;
+//    private BD historico_de_gastos;
+
 
     public void setLucro_bruto(double lucro_bruto) {
         this.lucro_bruto = lucro_bruto;

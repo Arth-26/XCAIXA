@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ab49dd0-1ade-490c-9cf9-d637ac813e86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/XCAIXA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/XCAIXA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Caderneta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caderneta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Caixa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caixa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estoque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pedidos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pedidos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Produtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Produtos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anotações" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotações" afterDir="false" />
-    </list>
+    <list default="true" id="9ab49dd0-1ade-490c-9cf9-d637ac813e86" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,11 +32,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Raniere/Downloads/postgresql-42.6.0.jar",
+    "last_opened_file_path": "C:/Users/Arthur/Downloads/postgresql-42.6.0.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,7 +44,7 @@
       <recent name="C:\Users\Raniere\OneDrive\Área de Trabalho\projeto caixa\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Database" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Database" />
       <module name="XCAIXA" />
@@ -70,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="XCAIXA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Database" />
       </list>
     </recent_temporary>

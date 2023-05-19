@@ -1,5 +1,7 @@
+
 public class Estoque {
 
+    private String id;
     private Produtos produto;
     private int quantidade;
 
