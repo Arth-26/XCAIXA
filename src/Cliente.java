@@ -7,47 +7,58 @@ public class Cliente {
     private String rua;
     private String numero_telefone;
     private String cpf;
+    private Produtos produto;
+
+
+
     //private BD carrinho;
     private boolean devedor = false;
 
+
     //SETTERS AND GETTERS
 
-
+    public boolean isDevedor() {
+        return devedor;
+    }
+    public void setDevedor(boolean devedor) {
+        this.devedor = devedor;
+    }
+    public Produtos getProduto() {
+        return produto;
+    }
+    public void setProduto(Produtos produto) {
+        this.produto = produto;
+    }
     public String getNome() {
         return nome;
     }
     public void setNome(String nome) {
         this.nome = nome;
     }
-
     public String getEstado() {
         return estado;
     }
     public void setEstado(String estado) {
         this.estado = estado;
     }
-
     public String getCidade() {
         return cidade;
     }
     public void setCidade(String cidade) {
         this.cidade = cidade;
     }
-
     public String getRua() {
         return rua;
     }
     public void setRua(String rua) {
         this.rua = rua;
     }
-
     public void setNumero_telefone(String numero_telefone) {
         this.numero_telefone = numero_telefone;
     }
     public String getNumero_telefone() {
         return numero_telefone;
     }
-
     public String getCpf() {
         return cpf;
     }
@@ -55,5 +66,17 @@ public class Cliente {
         this.cpf = cpf;
     }
 
-    
+
+    //METODOS
+
+    public void acessarComprasClientes(){
+
+
+    }
+
+    public void adicionarCompra(){
+
+
+    }
+
 }

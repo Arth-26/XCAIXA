@@ -29,4 +29,11 @@ public class Caixa {
     public double getSaida_capital() {
         return saida_capital;
     }
+
+    //METODOS
+    public void retirarDoCaixa(){
+
+
+    }
+
 }
